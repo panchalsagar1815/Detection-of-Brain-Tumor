@@ -14,7 +14,7 @@ The "Detection of Brain Tumor" project aims to develop a robust classification s
    - Gained insights into the characteristics of different tumor types.
 
 **Machine Learning Model:**
-Utilized the DenseNet201 model for tumor classification:
+Utilized the DenseNet201 model for tumour classification:
 ```python
 inp = model1.input
 ''' Hidden Layer '''
