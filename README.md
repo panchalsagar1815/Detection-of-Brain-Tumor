@@ -23,7 +23,7 @@ x = tf.keras.layers.Dense(128, activation='relu')(model1.output)
 out = tf.keras.layers.Dense(4, activation='softmax')(x)
 
 ''' Model '''
-model = tf.keras.Model(inputs=inp, outputs=out)
+model = tf. keras.Model(inputs=inp, outputs=out)
 
 ''' Compile the Model '''
 model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
