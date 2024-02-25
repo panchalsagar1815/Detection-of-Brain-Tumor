@@ -6,7 +6,7 @@ The "Detection of Brain Tumor" project aims to develop a robust classification s
 
 **Data Processing:**
 1. **Data Cleaning and Preprocessing:**
-   - Addressed image artifacts, noise, and inconsistencies for reliable model training.
+   - Addressed image artefacts, noise, and inconsistencies for reliable model training.
    - Ensured uniformity and quality in the dataset.
 
 2. **Data Visualization and EDA:**
