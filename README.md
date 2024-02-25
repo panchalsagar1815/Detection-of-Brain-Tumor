@@ -1,5 +1,4 @@
 # **Project: Detection of Brain Tumor**
-
 **Objective:**
 The "Detection of Brain Tumor" project aims to develop a robust classification system to identify brain tumours from medical images. The dataset consists of images categorized into 'no_tumor,' 'pituitary_tumor,' 'meningioma_tumor,' and 'glioma_tumor.' Through comprehensive data preprocessing, cleaning, augmentation, and the implementation of a DenseNet201 model, the project endeavours to accurately classify brain tumours into their respective categories.
 
