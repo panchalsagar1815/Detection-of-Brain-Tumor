@@ -1,4 +1,4 @@
-# Detection-of
+# Detection
 **Project: Detection of Brain Tumor**
 
 **Objective:**
