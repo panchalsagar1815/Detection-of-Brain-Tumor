@@ -11,7 +11,7 @@ The "Detection of Brain Tumor" project aims to develop a robust classification s
 
 2. **Data Visualization and EDA:**
    - Explored image distributions, pixel intensities, and tumour patterns.
-   - Gained insights into the characteristics of different tumor types.
+   - Gained insights into the characteristics of different tumour types.
 
 **Machine Learning Model:**
 Utilized the DenseNet201 model for tumour classification:
